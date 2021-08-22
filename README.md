@@ -2,8 +2,8 @@ Olá 👍, sou o Hélio Gomes, tenho 25 anos. Atualmente estou graduando sistema
 
  <div>
   <a href="https://github.com/heliogomes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heliogomes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliogomes&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heliogomes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliogomes&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
