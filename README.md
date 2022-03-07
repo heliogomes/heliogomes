@@ -1,4 +1,4 @@
-Olá 👍, sou o Hélio Gomes, tenho 25 anos. Atualmente estou graduando sistemas para internet e realizando estudos na área de front-end com HTML, CSS e JavaScript. Sou formando em administração e em transição de carreira, estou em busca de oportunidades de estágios e primeiro emprego na área tecnológica.💡
+Olá 👍, sou o Hélio Gomes, tenho 25 anos. Atualmente estou graduando sistemas para internet e realizando estudos na área de front-end com HTML, CSS e JavaScript. Sou formando em administração e em transição de carreira.💡
 
  <div>
   <a href="https://github.com/heliogomes">
